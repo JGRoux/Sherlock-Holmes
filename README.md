@@ -1,7 +1,7 @@
 # Sherlock-Holmes
 C using Allegro library 2D game
 
-Contributeurs:
+**Contributeurs:**
 - Mohamed Ruine
 - Ali Tahour
 - Jean-Guillaume Roux
